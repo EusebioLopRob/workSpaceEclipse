@@ -5,11 +5,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Registro</title>
+<title>Nueva Receta</title>
 </head>
 <body>
 <h1>Nueva receta de panadería</h1>
-	<form action="" method="post">
+	<form action="${pageContext.request.contextPath}/" method="post">
 		<table>
 			<tr>
 				<td align="right">Nombre</td>
