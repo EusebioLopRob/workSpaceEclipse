@@ -1,0 +1,12 @@
+127.0.0.1 - - [30/Sep/2021:10:11:35 +0200] "GET / HTTP/1.1" 404 687
+0:0:0:0:0:0:0:1 - - [30/Sep/2021:10:11:36 +0200] "GET /Proyecto-Maven-01/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Sep/2021:10:11:41 +0200] "GET /Proyecto-Maven-01/paginas/ejemplo6.jsp HTTP/1.1" 200 1034
+0:0:0:0:0:0:0:1 - - [30/Sep/2021:10:11:48 +0200] "POST /Proyecto-Maven-01/paginas/paginaDestino6.jsp HTTP/1.1" 200 756
+0:0:0:0:0:0:0:1 - - [30/Sep/2021:10:11:51 +0200] "GET /Proyecto-Maven-01/paginas/ejemplo6.jsp HTTP/1.1" 200 1034
+0:0:0:0:0:0:0:1 - - [30/Sep/2021:10:11:58 +0200] "POST /Proyecto-Maven-01/paginas/paginaDestino6.jsp HTTP/1.1" 200 748
+0:0:0:0:0:0:0:1 - - [30/Sep/2021:10:27:39 +0200] "GET /Proyecto-Maven-01/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Sep/2021:10:27:40 +0200] "GET /Proyecto-Maven-01/paginas/ejemplo7.jsp HTTP/1.1" 404 689
+0:0:0:0:0:0:0:1 - - [30/Sep/2021:10:28:02 +0200] "GET /Proyecto-Maven-01/paginas/ejemplo7.jsp HTTP/1.1" 200 1204
+0:0:0:0:0:0:0:1 - - [30/Sep/2021:10:28:41 +0200] "POST /Proyecto-Maven-01/paginas/paginaDestino7.jsp HTTP/1.1" 200 348
+0:0:0:0:0:0:0:1 - - [30/Sep/2021:10:38:11 +0200] "POST /Proyecto-Maven-01/paginas/paginaDestino7.jsp HTTP/1.1" 500 2735
+0:0:0:0:0:0:0:1 - - [30/Sep/2021:10:38:18 +0200] "POST /Proyecto-Maven-01/paginas/paginaDestino7.jsp HTTP/1.1" 500 2735

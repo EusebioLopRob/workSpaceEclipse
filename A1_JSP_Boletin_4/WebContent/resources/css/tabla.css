@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+
+table th{
+	background-color:#204a87;
+	color:white;
+	font-weight: bold;
+}
+
+table td{
+	background-color:#3f8dbf;
+	text-align: center;
+}
+
+#tabla{
+	float:left;
+}
+
+#boton{
+	float:left;
+}
+
+#botonesCompra{
+	clear:both;
+	float:none;
+}
+
+#enlace{
+	clear:both;
+	float:none;
+}

@@ -1,0 +1,9 @@
+127.0.0.1 - - [04/Apr/2022:11:54:12 +0200] "GET / HTTP/1.1" 404 687
+0:0:0:0:0:0:0:1 - - [04/Apr/2022:11:54:13 +0200] "GET /A14_MVC_JSP_Bol4/index.html HTTP/1.1" 200 244
+0:0:0:0:0:0:0:1 - - [04/Apr/2022:11:54:19 +0200] "GET /A14_MVC_JSP_Bol4/Controlador_TodosProductos HTTP/1.1" 200 7880
+0:0:0:0:0:0:0:1 - - [04/Apr/2022:11:54:19 +0200] "GET /A14_MVC_JSP_Bol4/resources/css/tablaProd.css HTTP/1.1" 200 586
+0:0:0:0:0:0:0:1 - - [04/Apr/2022:11:54:29 +0200] "GET /A14_MVC_JSP_Bol4/Controlador_TodosProductos HTTP/1.1" 200 6648
+0:0:0:0:0:0:0:1 - - [04/Apr/2022:11:57:03 +0200] "GET /A14_MVC_JSP_Bol4/Controlador_TodosProductos HTTP/1.1" 200 6648
+0:0:0:0:0:0:0:1 - - [04/Apr/2022:11:57:37 +0200] "GET /A14_MVC_JSP_Bol4/index.html HTTP/1.1" 200 297
+0:0:0:0:0:0:0:1 - - [04/Apr/2022:11:58:14 +0200] "GET /A14_MVC_JSP_Bol4/index.html HTTP/1.1" 200 350
+0:0:0:0:0:0:0:1 - - [04/Apr/2022:11:58:29 +0200] "GET /A14_MVC_JSP_Bol4/tratarUsuario.html HTTP/1.1" 200 594

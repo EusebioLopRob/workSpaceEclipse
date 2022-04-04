@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="/home/Eusebio/eclipse-workspace"/>
+			<item value="/home/Eusebio/eclipse-workspace/Servers"/>
+			<item value="/home/Eusebio/eclipse-workspace/ejemplo-maven"/>
+			<item value="/home/Eusebio/eclipse-workspace/plantillaWeb"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="B1_JPA_Hibernate_Ejercicio2.B1_JPA_Hibernate_Ejercicio2"/>
+		</list>
+		<list key="groupId">
+			<item value="B1_JPA_Hibernate_Ejercicio2"/>
+		</list>
+		<list key="artifactId">
+			<item value="B1_JPA_Hibernate_Ejercicio2"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/home/Eusebio/eclipse-workspace/A1_JSP_Boletin_4"/>
+			<item value="/home/Eusebio/eclipse-workspace/B1_JPA_Hibernate_Ejercicio3"/>
+			<item value="/home/Eusebio/eclipse-workspace/B1_JPA_Hibernate_Ejercicio2"/>
+			<item value="/home/Eusebio/eclipse-workspace/A14_MVC_JSP_Bol4"/>
+			<item value="/home/Eusebio/eclipse-workspace/A14_JSP_MVC_Tomcat"/>
+			<item value="/home/Eusebio/eclipse-workspace/A13_Servlet"/>
+			<item value="/home/Eusebio/eclipse-workspace/A12_JSP_JSTL"/>
+			<item value="/home/Eusebio/eclipse-workspace/A10_JSP_Ejemplo3"/>
+			<item value="/home/Eusebio/eclipse-workspace/Proyecto-Maven-01"/>
+			<item value="/home/Eusebio/eclipse-workspace/A10_JSP_Ejemplo2"/>
+			<item value="/home/Eusebio/eclipse-workspace/A1_JSP_Ejemplo1_Vacio"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
