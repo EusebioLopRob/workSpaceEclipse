@@ -35,7 +35,7 @@
 				<td align="right">Tecnología</td>
 				<td><input type="text" name="txtTecnologia" /></td>
 			</tr>
-			
+			</hr>
 			<tr>
 				<td align="center" colspan="2"><input type="submit" value="Confirmar receta" /></td>			
 			</tr>		

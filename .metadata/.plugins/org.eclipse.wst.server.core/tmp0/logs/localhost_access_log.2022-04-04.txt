@@ -7,3 +7,10 @@
 0:0:0:0:0:0:0:1 - - [04/Apr/2022:11:57:37 +0200] "GET /A14_MVC_JSP_Bol4/index.html HTTP/1.1" 200 297
 0:0:0:0:0:0:0:1 - - [04/Apr/2022:11:58:14 +0200] "GET /A14_MVC_JSP_Bol4/index.html HTTP/1.1" 200 350
 0:0:0:0:0:0:0:1 - - [04/Apr/2022:11:58:29 +0200] "GET /A14_MVC_JSP_Bol4/tratarUsuario.html HTTP/1.1" 200 594
+0:0:0:0:0:0:0:1 - - [04/Apr/2022:13:37:23 +0200] "GET / HTTP/1.1" 404 687
+0:0:0:0:0:0:0:1 - - [04/Apr/2022:13:37:23 +0200] "GET /favicon.ico HTTP/1.1" 404 698
+127.0.0.1 - - [04/Apr/2022:13:37:49 +0200] "GET / HTTP/1.1" 404 687
+0:0:0:0:0:0:0:1 - - [04/Apr/2022:13:37:49 +0200] "GET /A14_MVC_JSP_Bol4/index.html HTTP/1.1" 200 385
+0:0:0:0:0:0:0:1 - - [04/Apr/2022:13:38:00 +0200] "GET /A14_MVC_JSP_Bol4/index.html HTTP/1.1" 200 385
+0:0:0:0:0:0:0:1 - - [04/Apr/2022:13:38:04 +0200] "GET /A14_MVC_JSP_Bol4/vistasReceta/formuIngredientes.jsp HTTP/1.1" 200 1033
+0:0:0:0:0:0:0:1 - - [04/Apr/2022:13:38:45 +0200] "GET /A14_MVC_JSP_Bol4/vistasReceta/formuIngredientes.jsp HTTP/1.1" 200 1036

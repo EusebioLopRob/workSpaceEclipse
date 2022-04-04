@@ -12,8 +12,8 @@
 	<form action="${pageContext.request.contextPath}/" method="post">
 		<table>
 			<tr>
-				<td align="right">Nombre</td>
-				<td><input type="text" name="txtNombre" /></td>
+				<td align="right">Título de la receta</td>
+				<td><input type="text" name="titulo" /></td>
 			</tr>
 			<tr>
 				<td align="right">Apellidos</td>
@@ -35,8 +35,9 @@
 				<td align="right">Tecnología</td>
 				<td><input type="text" name="txtTecnologia" /></td>
 			</tr>
+			
 			<tr>
-				<td align="center" colspan="2"><input type="submit" value="Crear usuario" /></td>			
+				<td align="center" colspan="2"><input type="submit" value="Confirmar receta" /></td>			
 			</tr>		
 		</table>
 
