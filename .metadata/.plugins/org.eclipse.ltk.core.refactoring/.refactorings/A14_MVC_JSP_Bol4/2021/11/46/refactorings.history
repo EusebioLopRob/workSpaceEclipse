@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;index.html&apos; to &apos;index.html&apos;&#x0A;- Original project: &apos;A14_MVC_JSP_Bol4&apos;&#x0A;- Destination element: &apos;index.html&apos;&#x0A;- Original element: &apos;index.html&apos;" description="Copy file" element1="WebContent/index.html" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1637055215103" target="/A14_MVC_JSP_Bol4/WebContent/index.html" units="0" version="1.0"/>
-</session>

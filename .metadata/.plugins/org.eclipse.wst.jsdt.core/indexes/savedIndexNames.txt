@@ -1,8 +1,0 @@
-INDEX VERSION 1.4+/home/Eusebio/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-3141183775.index
-479912008.index
-677570049.index
-1465190018.index
-1502120057.index
-2685500593.index
-422786668.index

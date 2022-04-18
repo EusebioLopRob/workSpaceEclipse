@@ -1,5 +1,0 @@
-127.0.0.1 - - [11/Oct/2021:12:43:38 +0200] "GET / HTTP/1.1" 404 687
-0:0:0:0:0:0:0:1 - - [11/Oct/2021:12:43:38 +0200] "GET /A1_JSP_Ejemplo1_Vacio/ HTTP/1.1" 304 -
-0:0:0:0:0:0:0:1 - - [11/Oct/2021:12:43:41 +0200] "GET /A1_JSP_Ejemplo1_Vacio/paginas/ejemplo6.jsp HTTP/1.1" 404 689
-0:0:0:0:0:0:0:1 - - [11/Oct/2021:12:44:38 +0200] "GET /A1_JSP_Ejemplo1_Vacio/paginas/ejemplo6.jsp HTTP/1.1" 200 786
-0:0:0:0:0:0:0:1 - - [11/Oct/2021:12:44:46 +0200] "GET /A1_JSP_Ejemplo1_Vacio/index.html HTTP/1.1" 304 -
