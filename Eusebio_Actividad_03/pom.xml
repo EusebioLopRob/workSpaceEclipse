@@ -2,8 +2,8 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>Actividad_Panaderia</groupId>
-	<artifactId>Actividad_Panaderia</artifactId>
+	<groupId>Eusebio_Actividad_03</groupId>
+	<artifactId>Eusebio_Actividad_03</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Aprimero Maven Webapp</name>
@@ -60,6 +60,6 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>Actividad_Panaderia</finalName>
+		<finalName>Eusebio_Actividad_03</finalName>
 	</build>
 </project>
