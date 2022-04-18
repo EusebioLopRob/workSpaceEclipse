@@ -1,0 +1,52 @@
+ #header{
+   color: white;
+   background-color: rgb(14, 94, 168);
+   width: 100%;
+   height: 40px;
+}
+
+#body{
+   width: 100%;
+   background-color: lightgray;
+}
+
+#footer{
+	width: 100%;
+	height: 80px;
+	background-color: #7FFFD4;
+	text-align: center;
+}
+        
+table{
+   width: 100%;
+}
+
+table td{
+   border-width: 1px;
+   border-color: black;
+   border-style: solid;
+   background-color: white;
+}
+
+table th{
+   text-align: center;
+   border-width: 1px;
+   border-color: black;
+   border-style: solid;
+}
+
+      
+#error{
+	display: block;
+	color: red;
+	font-size: 1.5em;
+	font-weight: bolder
+}
+
+#exito{
+	display: block;
+	color: green;
+	font-size: 1.5em;
+	font-weight: bolder
+}
+

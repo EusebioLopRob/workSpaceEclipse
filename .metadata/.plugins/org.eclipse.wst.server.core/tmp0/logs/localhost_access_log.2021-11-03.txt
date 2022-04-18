@@ -1,7 +1,0 @@
-127.0.0.1 - - [03/Nov/2021:11:54:22 +0100] "GET / HTTP/1.1" 404 687
-0:0:0:0:0:0:0:1 - - [03/Nov/2021:11:54:23 +0100] "GET /A14_MVC_JSP_Bol4/index.html HTTP/1.1" 304 -
-0:0:0:0:0:0:0:1 - - [03/Nov/2021:11:54:26 +0100] "GET /A14_MVC_JSP_Bol4/Controlador_TodosProductos HTTP/1.1" 200 2654
-0:0:0:0:0:0:0:1 - - [03/Nov/2021:11:54:26 +0100] "GET /A14_MVC_JSP_Bol4/resources/css/tablaProd.css HTTP/1.1" 304 -
-0:0:0:0:0:0:0:1 - - [03/Nov/2021:11:54:59 +0100] "GET /A14_MVC_JSP_Bol4/Controlador_TodosProductos HTTP/1.1" 200 2752
-0:0:0:0:0:0:0:1 - - [03/Nov/2021:11:54:59 +0100] "GET /A14_MVC_JSP_Bol4/resources/css/tablaProd.css HTTP/1.1" 304 -
-127.0.0.1 - - [03/Nov/2021:12:00:35 +0100] "GET / HTTP/1.1" 404 687
