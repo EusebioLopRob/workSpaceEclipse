@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/Actividad_Reservas">
+  <Resource auth="Container" driverClassName="com.mysql.cj.jdbc.Driver" maxActive="8" maxIdle="3" maxWait="5000" name="jdbc/reservas" password="usuario" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/reservas" username="usuario">
+	</Resource>
+</Context>

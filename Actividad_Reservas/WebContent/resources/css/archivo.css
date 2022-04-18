@@ -1,0 +1,41 @@
+ #header{
+            color: white;
+            background-color: rgb(14, 94, 168);
+            width: 100%;
+            height: 40px;
+        }
+        #body{
+            width: 100%;
+            background-color: lightgray;
+        }
+        #formulario{
+            width: 25%;
+            margin-left: 6px;
+        }
+        #valores{
+            background-color: white;
+            border-color: red;
+            border-width: 1px;
+        }
+        table{
+            width: 100%;
+            text-align: center;
+        }
+
+       table td{
+            border-width: 1px;
+            border-color: black;
+            border-style: solid;
+            background-color: white;
+        }
+
+        table th{
+            border-width: 1px;
+            border-color: black;
+            border-style: solid;
+        }
+        
+        .error{
+        	background-color: lightcoral;
+        	font-weight: bold;
+        }
